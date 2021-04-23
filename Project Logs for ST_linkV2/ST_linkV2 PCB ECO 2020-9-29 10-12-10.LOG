@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=RX Pin=D1-K
-Removed Pin From Net: NetName=RX Pin=R6-2
-Added Pin To Net: NetName=TX Pin=D1-K
-Added Pin To Net: NetName=TX Pin=R6-2
-Change Net Name : Old Net Name=PA13_SWDIO New Net Name=NetP1_3
-Change Net Name : Old Net Name=PA14_SWCLK New Net Name=NetP1_2
